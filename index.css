@@ -35,7 +35,7 @@ main {
 }
 
 span#container {
-    width: 90%;
+    width: 70%;
     height: 100%;
     padding: 20px;  
     display: flex;
